@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://situshub.github.io/mcdtoto-web/sitemap.xml

@@ -1,0 +1,140 @@
+{
+  "title": "MCDTOTO Keamanan SSL — Enkripsi 256-Bit Proteksi Data Pemain 2026",
+  "description": "MCDTOTO menggunakan enkripsi SSL 256-bit untuk proteksi data pemain. Sertifikasi ISO 27001, firewall WAF, 2FA, dan standar keamanan setara perbankan internasional.",
+  "keywords": "MCDTOTO keamanan SSL, enkripsi 256-bit, proteksi data, keamanan siber, SSL certificate",
+  "h1": "MCDTOTO — Keamanan SSL Enkripsi 256-Bit Proteksi Maksimal",
+  "subtitle": "Bermain dengan tenang berkat sistem keamanan berlapis setara standar perbankan internasional",
+  "color": "#f97316",
+  "font": "Rubik",
+  "sections": [
+    {
+      "h2": "Infrastruktur Keamanan MCDTOTO yang Komprehensif",
+      "h3": "Standar Proteksi Setara Lembaga Keuangan",
+      "paragraphs": [
+        "MCDTOTO mengimplementasikan arsitektur keamanan multi-layer yang memenuhi dan bahkan melampaui standar industri perjudian daring. Fondasi keamanan dibangun di atas enkripsi SSL/TLS 256-bit yang mengamankan seluruh komunikasi data antara perangkat pemain dan server platform. Tingkat enkripsi ini identik dengan yang digunakan oleh bank-bank internasional terkemuka dan lembaga keuangan tingkat satu.",
+        "Keamanan bukan hanya tentang teknologi—ini adalah budaya yang ditanamkan dalam setiap aspek operasional platform. Tim keamanan siber yang terdiri dari profesional bersertifikat CISSP dan CEH memantau jaringan dan sistem secara kontinyu, mendeteksi anomali sebelum berkembang menjadi ancaman. Investasi dalam keamanan merupakan pos anggaran terbesar kedua setelah pembayaran kemenangan pemain.",
+        "Setiap komponen infrastruktur dirancang dengan prinsip defense-in-depth dimana keamanan tidak bergantung pada satu layer tunggal tetapi terdiri dari berlapis-lapis pertahanan yang saling melengkapi. Jika satu layer berhasil ditembus (skenario yang sangat unlikely), layer-layer berikutnya tetap melindungi data dan aset pemain."
+      ],
+      "list": [
+        "Enkripsi SSL/TLS 256-bit untuk seluruh transmisi data",
+        "Firewall Aplikasi Web (WAF) dengan rule set yang diperbarui harian",
+        "Sistem deteksi dan pencegahan intrusi (IDS/IPS)",
+        "Pemantauan jaringan 24/7 oleh tim keamanan bersertifikat",
+        "Arsitektur defense-in-depth dengan redundansi multi-layer"
+      ],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "Enkripsi SSL 256-Bit — Apa dan Mengapa Penting",
+      "h3": "Memahami Teknologi di Balik Keamanan Data",
+      "paragraphs": [
+        "SSL (Secure Sockets Layer) dan penerusnya TLS (Transport Layer Security) adalah protokol kriptografi yang menciptakan saluran komunikasi terenkripsi antara browser pemain dan server platform. Angka 256-bit mengacu pada panjang kunci enkripsi yang digunakan—semakin panjang kunci, semakin sulit untuk dipecahkan. Menurut <a href=\"https://id.wikipedia.org/wiki/Transport_Layer_Security\" target=\"_blank\" rel=\"noopener\">standar kriptografi</a> modern, enkripsi 256-bit dianggap tidak dapat dipecahkan dengan teknologi komputasi yang ada saat ini.",
+        "Dalam konteks praktis, enkripsi 256-bit berarti bahwa informasi yang Anda kirimkan saat login, deposit, atau bermain diubah menjadi kode yang hanya dapat dibaca oleh server penerima yang memiliki kunci dekripsi. Bahkan jika seseorang berhasil mencegat data di tengah transmisi (misalnya melalui jaringan WiFi publik), mereka hanya akan melihat rangkaian karakter acak yang tidak bermakna.",
+        "Platform menggunakan sertifikat SSL yang dikeluarkan oleh Certificate Authority (CA) terpercaya tingkat atas. Validitas sertifikat dapat diverifikasi oleh pemain dengan mengklik ikon gembok di address bar browser, yang menampilkan informasi detail tentang entitas penerbit, masa berlaku, dan tingkat enkripsi yang aktif."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": {
+        "headers": ["Aspek Keamanan", "Implementasi", "Standar", "Verifikasi", "Terakhir Diaudit"],
+        "rows": [
+          ["Enkripsi Transmisi", "TLS 1.3 / AES-256-GCM", "Setara banking", "Klik ikon gembok browser", "April 2026"],
+          ["Sertifikat SSL", "Extended Validation (EV)", "CA tier-1", "Detail di ikon gembok", "April 2026"],
+          ["Penyimpanan Password", "bcrypt + salt", "OWASP top 10", "Audit internal", "Maret 2026"],
+          ["Penyimpanan Data", "AES-256 at rest", "ISO 27001", "Audit eksternal", "Januari 2026"],
+          ["Backup Data", "Encrypted, multi-region", "Disaster recovery", "Drill quarterly", "Maret 2026"],
+          ["API Security", "OAuth 2.0 + rate limiting", "OWASP API top 10", "Pentest quarterly", "Februari 2026"]
+        ]
+      }
+    },
+    {
+      "h2": "Otentikasi Dua Faktor (2FA) untuk Proteksi Akun",
+      "paragraphs": [
+        "Fitur 2FA menambahkan lapisan keamanan krusial pada proses login dengan memerlukan dua bukti identitas yang berbeda. Selain password (something you know), pemain juga perlu memasukkan kode verifikasi yang dikirim ke perangkat mereka (something you have). Kombinasi ini secara drastis mengurangi risiko akses tidak sah bahkan jika password berhasil ditebak atau dicuri.",
+        "Platform mendukung beberapa metode 2FA: kode OTP via SMS, kode via email, dan aplikasi authenticator (Google Authenticator, Authy). Metode authenticator app direkomendasikan karena tidak bergantung pada jaringan seluler dan lebih tahan terhadap serangan SIM swap. Setiap metode menghasilkan kode unik yang berlaku hanya selama 30 detik, memastikan kode yang dicuri tidak dapat digunakan ulang.",
+        "Aktivasi 2FA sangat disarankan untuk semua member dan wajib untuk member VIP tier Gold ke atas. Proses aktivasi dapat diselesaikan dalam 2 menit melalui menu Keamanan di dashboard akun. Setelah diaktifkan, setiap login dari perangkat baru akan memerlukan verifikasi 2FA, sementara perangkat yang sudah dipercaya dapat di-whitelist untuk kenyamanan."
+      ],
+      "list": [],
+      "ordered": [
+        "Buka menu Akun > Keamanan > Otentikasi Dua Faktor",
+        "Pilih metode 2FA (SMS, Email, atau Authenticator App)",
+        "Scan QR code dengan aplikasi authenticator (jika dipilih)",
+        "Masukkan kode verifikasi pertama untuk konfirmasi setup",
+        "Simpan backup recovery codes di tempat aman",
+        "2FA aktif — setiap login baru memerlukan kode verifikasi"
+      ],
+      "table": null
+    },
+    {
+      "h2": "Kebijakan Privasi dan Perlindungan Data Pribadi",
+      "paragraphs": [
+        "Platform menerapkan kebijakan privasi yang ketat dan transparan mengenai pengumpulan, penggunaan, dan penyimpanan data pribadi pemain. Prinsip minimalisasi data diterapkan—hanya informasi yang benar-benar diperlukan untuk operasional layanan yang dikumpulkan. Data seperti preferensi bermain dan riwayat permainan digunakan untuk personalisasi pengalaman, bukan dijual ke pihak ketiga.",
+        "Penyimpanan data pribadi menggunakan enkripsi at-rest AES-256, artinya data tetap terenkripsi bahkan saat disimpan di server. Akses ke data sensitif dibatasi melalui role-based access control (RBAC) dimana hanya personel yang berwenang dapat mengakses informasi tertentu sesuai dengan kebutuhan peran mereka.",
+        "Hak pemain atas data pribadinya dihormati sepenuhnya. Pemain dapat meminta salinan seluruh data yang disimpan oleh platform, meminta koreksi data yang tidak akurat, atau meminta penghapusan data sesuai dengan kebijakan <a href=\"#perbandingan\">retensi data</a> yang berlaku. Permintaan ini ditangani oleh Data Protection Officer yang dedicated.",
+        "Kebijakan privasi secara reguler diperbarui untuk menyesuaikan dengan perkembangan regulasi perlindungan data global. Setiap perubahan material dinotifikasikan kepada pemain melalui email dan banner di situs."
+      ],
+      "list": [
+        "Prinsip minimalisasi pengumpulan data",
+        "Enkripsi at-rest AES-256 untuk data tersimpan",
+        "Role-based access control untuk akses internal",
+        "Hak pemain: akses, koreksi, dan penghapusan data",
+        "Data Protection Officer dedicated untuk privasi"
+      ],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "Pengujian Keamanan Berkala dan Audit Independen",
+      "paragraphs": [
+        "Keamanan yang efektif memerlukan validasi berkelanjutan melalui pengujian dan audit. Platform melaksanakan penetration testing (pentest) oleh firma keamanan pihak ketiga setiap kuartal, mensimulasikan serangan siber realistis untuk mengidentifikasi kerentanan sebelum dieksploitasi oleh aktor jahat.",
+        "Bug bounty program mengundang peneliti keamanan independen di seluruh dunia untuk mencari dan melaporkan kerentanan dengan imbalan finansial. Program ini telah menghasilkan penemuan dan perbaikan puluhan kerentanan potensial yang mungkin tidak terdeteksi oleh pengujian internal.",
+        "Audit kepatuhan ISO 27001 dilakukan setiap tahun oleh auditor bersertifikat untuk memverifikasi bahwa Information Security Management System (ISMS) platform memenuhi standar internasional. Sertifikat ISO 27001 yang valid dapat diverifikasi oleh pemain melalui halaman Keamanan di situs."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "Tips Keamanan untuk Pemain",
+      "paragraphs": [
+        "Keamanan adalah tanggung jawab bersama antara platform dan pemain. Berikut langkah-langkah yang dapat diambil pemain untuk memperkuat keamanan akun mereka. Gunakan password unik yang kuat (minimal 12 karakter dengan kombinasi huruf besar, kecil, angka, dan simbol) dan jangan gunakan password yang sama dengan akun lain.",
+        "Aktifkan 2FA dan gunakan authenticator app sebagai metode utama. Jangan pernah membagikan kode verifikasi atau informasi login kepada siapapun termasuk pihak yang mengaku sebagai customer service. CS resmi tidak pernah meminta password atau kode 2FA Anda dalam situasi apapun.",
+        "Hindari login dari perangkat publik atau jaringan WiFi tidak terpercaya. Jika terpaksa menggunakan WiFi publik, aktifkan VPN untuk mengenkripsi koneksi. Logout setelah selesai bermain terutama di perangkat yang digunakan bersama orang lain."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "FAQ — Pertanyaan Seputar Keamanan",
+      "paragraphs": [
+        "Jawaban pertanyaan keamanan di <a href=\"#faq\">FAQ</a> berikut."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": null
+    }
+  ],
+  "faq": [
+    {
+      "q": "Apa itu enkripsi SSL 256-bit?",
+      "a": "SSL 256-bit adalah standar enkripsi yang mengubah data menjadi kode yang hanya bisa dibaca oleh penerima yang memiliki kunci. Tingkat keamanan ini setara dengan yang digunakan bank-bank internasional."
+    },
+    {
+      "q": "Apakah data pribadi saya dijual ke pihak ketiga?",
+      "a": "Tidak, kebijakan privasi platform secara tegas melarang penjualan atau pembagian data pribadi pemain ke pihak ketiga untuk tujuan komersial apapun."
+    },
+    {
+      "q": "Bagaimana cara mengaktifkan 2FA?",
+      "a": "Buka menu Akun > Keamanan > 2FA, pilih metode (SMS/Email/Authenticator App), ikuti instruksi setup, dan simpan backup recovery codes yang diberikan."
+    },
+    {
+      "q": "Apa yang harus dilakukan jika curiga akun diretas?",
+      "a": "Segera hubungi CS melalui live chat untuk meminta pembekuan akun sementara. Ubah password dan aktifkan 2FA setelah akses dikembalikan. Tim keamanan akan menginvestigasi aktivitas mencurigakan."
+    },
+    {
+      "q": "Apakah platform memiliki sertifikasi keamanan?",
+      "a": "Ya, platform memiliki sertifikasi ISO 27001 untuk Information Security Management System yang diaudit setiap tahun oleh auditor independen bersertifikat."
+    }
+  ]
+}

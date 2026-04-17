@@ -1,0 +1,186 @@
+{
+  "title": "MCDTOTO Aplikasi Mobile 2026 — PWA Responsif & Cara Pasang di Home Screen",
+  "description": "Panduan lengkap aplikasi mobile MCDTOTO berbasis PWA. Cara install di home screen Android & iOS, fitur responsif, notifikasi push, dan performa setara native app.",
+  "keywords": "MCDTOTO aplikasi mobile, MCDTOTO PWA, MCDTOTO home screen, MCDTOTO responsive, MCDTOTO install aplikasi, MCDTOTO mobile app",
+  "h1": "MCDTOTO — Aplikasi Mobile PWA Responsif untuk Semua Perangkat",
+  "subtitle": "Akses MCDTOTO layaknya aplikasi native langsung dari home screen ponsel Anda. Tanpa download dari store, tanpa makan ruang penyimpanan.",
+  "color": "#06b6d4",
+  "font": "Montserrat",
+  "sections": [
+    {
+      "h2": "Apa Itu PWA dan Mengapa MCDTOTO Memilih Teknologi Ini",
+      "h3": "Progressive Web App — Masa Depan Aplikasi Mobile",
+      "paragraphs": [
+        "Progressive Web App atau PWA adalah teknologi web modern yang memungkinkan sebuah situs web berfungsi layaknya aplikasi native di perangkat mobile. MCDTOTO mengadopsi teknologi <a href=\"https://id.wikipedia.org/wiki/Aplikasi_web_progresif\" target=\"_blank\" rel=\"noopener\">PWA sebagaimana dijelaskan Wikipedia</a> untuk memberikan pengalaman terbaik kepada member tanpa harus mengunduh aplikasi besar dari app store.",
+        "Keunggulan utama PWA MCDTOTO adalah kemudahan akses dan efisiensi. Tidak perlu mengunduh file ratusan megabyte, tidak perlu menunggu proses instalasi yang lama, dan tidak perlu khawatir tentang ruang penyimpanan yang terbatas. Cukup buka situs MCDTOTO melalui browser lalu tambahkan ke home screen, dan Anda sudah memiliki akses instan layaknya aplikasi native.",
+        "PWA MCDTOTO mendukung fitur-fitur canggih seperti notifikasi push, mode offline untuk halaman yang sudah di-cache, loading instan berkat service worker, dan tampilan fullscreen tanpa address bar browser. Semua fitur ini membuat pengalaman menggunakan MCDTOTO di mobile tidak bisa dibedakan dari aplikasi yang diunduh dari Google Play Store atau App Store.",
+        "Keuntungan lain dari pendekatan PWA adalah update otomatis. Setiap kali MCDTOTO merilis fitur baru atau perbaikan, pengguna PWA langsung mendapatkannya tanpa perlu mengunduh pembaruan manual. Ini memastikan semua member selalu menggunakan versi terbaru dengan fitur paling mutakhir dan keamanan terkini."
+      ],
+      "list": [
+        "Tidak perlu download dari app store",
+        "Hemat ruang penyimpanan perangkat",
+        "Update otomatis tanpa unduhan manual",
+        "Notifikasi push dan mode offline tersedia",
+        "Tampilan fullscreen setara native app",
+        "Kompatibel dengan Android dan iOS"
+      ],
+      "ordered": [],
+      "table": {
+        "headers": [],
+        "rows": []
+      }
+    },
+    {
+      "h2": "Cara Install PWA MCDTOTO di Android",
+      "h3": "Panduan Step-by-Step untuk Pengguna Android",
+      "paragraphs": [
+        "Proses instalasi PWA MCDTOTO di perangkat Android sangat mudah dan bisa diselesaikan dalam waktu kurang dari satu menit. Metode ini bekerja di semua browser modern termasuk Chrome, Firefox, Samsung Internet, dan Opera. Berikut panduan lengkap untuk menambahkan MCDTOTO ke home screen Android Anda.",
+        "Buka browser Chrome atau browser favorit Anda di perangkat Android. Navigasi ke situs resmi MCDTOTO dan pastikan halaman sudah dimuat sempurna. Pada sebagian besar kasus, browser akan secara otomatis menampilkan banner di bagian bawah layar yang menawarkan opsi Add to Home Screen atau Tambahkan ke Layar Utama.",
+        "Jika banner otomatis tidak muncul, Anda bisa melakukannya secara manual melalui menu browser. Di Chrome, ketuk ikon tiga titik vertikal di pojok kanan atas, lalu pilih opsi Tambahkan ke Layar Utama. Sistem akan menampilkan dialog konfirmasi dengan ikon dan nama aplikasi MCDTOTO. Ketuk Tambahkan untuk menyelesaikan proses.",
+        "Setelah ditambahkan, ikon MCDTOTO akan muncul di home screen Anda seperti aplikasi biasa. Ketuk ikon tersebut untuk membuka MCDTOTO dalam mode standalone tanpa address bar browser, memberikan pengalaman visual yang identik dengan aplikasi native. Anda juga bisa memindahkan ikon ke folder atau posisi yang diinginkan di home screen."
+      ],
+      "list": [],
+      "ordered": [
+        "Buka Chrome atau browser lain di perangkat Android Anda",
+        "Kunjungi situs resmi MCDTOTO dan tunggu halaman termuat",
+        "Ketuk ikon tiga titik di pojok kanan atas browser",
+        "Pilih opsi Tambahkan ke Layar Utama",
+        "Konfirmasi dengan mengetuk tombol Tambahkan",
+        "Ikon MCDTOTO kini muncul di home screen Anda"
+      ],
+      "table": {
+        "headers": [],
+        "rows": []
+      }
+    },
+    {
+      "h2": "Cara Install PWA MCDTOTO di iPhone dan iPad",
+      "paragraphs": [
+        "Untuk pengguna iOS, proses instalasi PWA MCDTOTO harus dilakukan melalui browser Safari karena Apple hanya mengizinkan PWA di-install melalui browser bawaan ini. Prosesnya sama mudahnya dengan Android dan hanya memerlukan beberapa ketukan layar.",
+        "Buka Safari di iPhone atau iPad Anda lalu navigasi ke situs resmi MCDTOTO. Setelah halaman dimuat sempurna, ketuk ikon Share yang berbentuk kotak dengan panah ke atas di bagian bawah layar untuk iPhone atau bagian atas untuk iPad. Menu opsi sharing akan muncul dengan berbagai pilihan.",
+        "Scroll menu tersebut ke bawah dan cari opsi Tambahkan ke Layar Utama atau Add to Home Screen. Ketuk opsi ini dan Safari akan menampilkan preview ikon serta nama aplikasi. Anda bisa mengedit nama jika diinginkan lalu ketuk Tambah di pojok kanan atas untuk menyelesaikan proses instalasi.",
+        "PWA MCDTOTO di iOS mendukung tampilan fullscreen, loading cepat, dan penyimpanan login sehingga Anda tidak perlu memasukkan kredensial setiap kali membuka. Meskipun iOS memiliki beberapa batasan PWA dibandingkan Android seperti keterbatasan notifikasi push pada versi iOS lama, pengalaman keseluruhan tetap sangat baik dan responsif."
+      ],
+      "list": [
+        "Wajib menggunakan Safari untuk install di iOS",
+        "Gunakan ikon Share di bagian bawah layar",
+        "Pilih Tambahkan ke Layar Utama dari menu share",
+        "iOS 16.4 ke atas mendukung notifikasi push PWA"
+      ],
+      "ordered": [],
+      "table": {
+        "headers": [],
+        "rows": []
+      }
+    },
+    {
+      "h2": "Fitur Unggulan Aplikasi Mobile MCDTOTO",
+      "paragraphs": [
+        "PWA MCDTOTO dilengkapi berbagai fitur yang dioptimalkan untuk pengalaman mobile terbaik. Setiap fitur dirancang dengan mempertimbangkan keterbatasan layar kecil dan variasi koneksi internet yang dihadapi pengguna mobile di Indonesia.",
+        "Fitur pertama adalah adaptive layout yang secara cerdas menyesuaikan tata letak konten berdasarkan ukuran layar perangkat. Baik Anda menggunakan ponsel layar 5.5 inci maupun tablet 11 inci, semua elemen antarmuka MCDTOTO tampil proporsional tanpa scroll horizontal atau elemen yang terpotong.",
+        "Fitur kedua adalah smart caching yang menyimpan aset statis secara lokal di perangkat menggunakan service worker. Ini membuat loading halaman berikutnya jauh lebih cepat karena gambar, font, dan script tidak perlu diunduh ulang. Bahkan saat koneksi internet terputus sementara, halaman yang sudah di-cache masih bisa diakses.",
+        "Fitur ketiga adalah push notification yang menginformasikan tentang promo terbaru, status transaksi, dan event spesial langsung ke layar ponsel Anda. Notifikasi ini dapat disesuaikan melalui pengaturan sehingga Anda hanya menerima informasi yang relevan. Fitur keempat adalah biometric login yang memanfaatkan fingerprint atau face unlock perangkat untuk login cepat dan aman."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": {
+        "headers": ["Fitur", "Android", "iOS", "Keterangan"],
+        "rows": [
+          ["Fullscreen Mode", "Ya", "Ya", "Tanpa address bar"],
+          ["Push Notification", "Ya", "Ya (iOS 16.4+)", "Customizable"],
+          ["Offline Cache", "Ya", "Ya", "Halaman statis"],
+          ["Biometric Login", "Ya", "Ya", "Fingerprint & Face ID"],
+          ["Auto Update", "Ya", "Ya", "Transparan tanpa download"],
+          ["Home Screen Icon", "Ya", "Ya", "Ikon kustom MCDTOTO"]
+        ]
+      }
+    },
+    {
+      "h2": "Performa dan Kecepatan PWA MCDTOTO di Berbagai Perangkat",
+      "paragraphs": [
+        "Tim pengembang MCDTOTO melakukan pengujian performa PWA secara rutin di berbagai perangkat dan kondisi jaringan untuk memastikan pengalaman yang konsisten bagi semua member. Hasil pengujian menunjukkan bahwa PWA MCDTOTO mampu berjalan dengan lancar bahkan di perangkat entry-level dengan RAM 2GB.",
+        "First Contentful Paint atau waktu hingga konten pertama tampil di layar rata-rata hanya 1.2 detik pada koneksi 4G dan 2.5 detik pada koneksi 3G. Time to Interactive yang mengukur kapan halaman siap menerima input pengguna rata-rata 2.1 detik pada 4G. Angka-angka ini jauh lebih baik dibandingkan rata-rata industri.",
+        "PWA MCDTOTO juga dioptimalkan untuk menghemat penggunaan data seluler. Berkat teknik compression, lazy loading gambar, dan smart caching, rata-rata data yang dikonsumsi per sesi bermain hanya sekitar 3-5 MB. Ini sangat penting bagi pengguna yang memiliki paket data terbatas.",
+        "Untuk perangkat older generation yang menggunakan Android versi 7 atau iOS versi 14 ke atas, MCDTOTO menyediakan mode lite yang mengurangi animasi dan efek visual untuk menjaga kelancaran. Mode ini bisa diaktifkan secara otomatis oleh sistem atau manual melalui pengaturan."
+      ],
+      "list": [
+        "Berjalan lancar di perangkat RAM 2GB",
+        "First Contentful Paint 1.2 detik pada 4G",
+        "Konsumsi data hanya 3-5 MB per sesi",
+        "Mode lite untuk perangkat generasi lama"
+      ],
+      "ordered": [],
+      "table": {
+        "headers": [],
+        "rows": []
+      }
+    },
+    {
+      "h2": "Troubleshooting dan Solusi Masalah PWA MCDTOTO",
+      "paragraphs": [
+        "Meskipun PWA MCDTOTO telah dioptimalkan untuk berbagai skenario penggunaan, beberapa member mungkin mengalami kendala teknis tertentu. Berikut panduan troubleshooting untuk masalah yang paling sering dilaporkan beserta solusinya.",
+        "Jika ikon PWA tidak muncul di home screen setelah proses instalasi, coba ulangi langkah instalasi dan pastikan halaman MCDTOTO sudah dimuat sepenuhnya sebelum menambahkan ke home screen. Pada beberapa perangkat Android, ikon mungkin ditambahkan ke drawer aplikasi dan bukan home screen utama sehingga perlu dicari secara manual.",
+        "Untuk masalah notifikasi yang tidak muncul, periksa pengaturan notifikasi perangkat dan pastikan MCDTOTO diizinkan mengirim notifikasi. Di Android, buka Pengaturan lalu Aplikasi lalu MCDTOTO lalu Notifikasi dan pastikan semua toggle aktif. Di iOS, buka Pengaturan lalu Notifikasi dan cari MCDTOTO dalam daftar.",
+        "Jika PWA terasa lambat atau loading lama, coba bersihkan cache browser dan reinstall PWA. Buka pengaturan browser, hapus data situs MCDTOTO, lalu instal ulang PWA dengan mengikuti langkah-langkah yang sudah dijelaskan. Pastikan juga perangkat memiliki ruang penyimpanan yang cukup minimal 100 MB kosong untuk operasi yang optimal."
+      ],
+      "list": [
+        "Ikon tidak muncul — ulangi instalasi dengan halaman termuat penuh",
+        "Notifikasi tidak aktif — periksa izin di pengaturan perangkat",
+        "Loading lambat — bersihkan cache dan reinstall PWA",
+        "Login gagal — periksa koneksi internet dan coba ulang"
+      ],
+      "ordered": [],
+      "table": {
+        "headers": [],
+        "rows": []
+      }
+    },
+    {
+      "h2": "Keunggulan PWA MCDTOTO Dibandingkan Aplikasi Native",
+      "paragraphs": [
+        "Banyak pengguna bertanya mengapa MCDTOTO memilih pendekatan PWA dibandingkan membangun aplikasi native terpisah untuk Android dan iOS. Jawabannya terletak pada keunggulan fundamental PWA yang memberikan manfaat lebih besar bagi pengguna akhir.",
+        "PWA tidak memerlukan proses approval dari app store yang bisa memakan waktu berminggu-minggu. Ini berarti setiap pembaruan fitur dan perbaikan bug bisa langsung tersedia untuk semua member tanpa menunggu review. Selain itu, pengguna tidak perlu mengunduh update besar setiap kali ada perubahan karena PWA melakukan update secara inkremental di latar belakang.",
+        "Dari segi keamanan, PWA berjalan di lingkungan sandbox browser yang memberikan isolasi dari sistem operasi perangkat. Ini mengurangi risiko keamanan dibandingkan aplikasi native yang memerlukan berbagai izin akses ke perangkat. PWA MCDTOTO hanya meminta izin yang benar-benar diperlukan seperti notifikasi dan kamera untuk upload KYC.",
+        "Terakhir, PWA memastikan bahwa semua pengguna memiliki pengalaman yang sama terlepas dari sistem operasi yang digunakan. MCDTOTO hanya perlu memelihara satu codebase untuk semua platform, yang berarti bug fix dan fitur baru tersedia secara simultan untuk pengguna Android, iOS, maupun desktop."
+      ],
+      "list": [
+        "Tanpa proses review app store yang lama",
+        "Update inkremental otomatis di latar belakang",
+        "Berjalan di sandbox browser untuk keamanan lebih",
+        "Satu codebase untuk semua platform sekaligus",
+        "Tidak memerlukan izin akses berlebihan ke perangkat"
+      ],
+      "ordered": [],
+      "table": {
+        "headers": [],
+        "rows": []
+      }
+    }
+  ],
+  "faq": [
+    {
+      "q": "Apakah MCDTOTO memiliki aplikasi di Google Play Store?",
+      "a": "MCDTOTO menggunakan teknologi PWA yang bisa dipasang langsung dari browser ke home screen tanpa perlu mengunduh dari Play Store. Pengalaman dan performanya setara dengan aplikasi native."
+    },
+    {
+      "q": "Bagaimana cara memasang MCDTOTO di home screen Android?",
+      "a": "Buka situs MCDTOTO di Chrome, ketuk menu tiga titik, pilih Tambahkan ke Layar Utama, lalu konfirmasi. Ikon MCDTOTO akan muncul di home screen siap digunakan."
+    },
+    {
+      "q": "Apakah PWA MCDTOTO bisa menerima notifikasi push?",
+      "a": "Ya, PWA MCDTOTO mendukung notifikasi push di Android dan iOS 16.4 ke atas. Pastikan izin notifikasi diaktifkan di pengaturan perangkat Anda."
+    },
+    {
+      "q": "Berapa banyak ruang penyimpanan yang dibutuhkan PWA MCDTOTO?",
+      "a": "PWA MCDTOTO hanya menggunakan sekitar 5-10 MB ruang penyimpanan untuk cache, jauh lebih hemat dibandingkan aplikasi native yang biasanya ratusan MB."
+    },
+    {
+      "q": "Apakah PWA MCDTOTO bisa digunakan tanpa koneksi internet?",
+      "a": "Halaman yang sudah di-cache bisa diakses secara offline. Namun untuk bermain game dan melakukan transaksi, koneksi internet tetap diperlukan."
+    },
+    {
+      "q": "Bagaimana cara menghapus PWA MCDTOTO dari perangkat?",
+      "a": "Cara menghapus PWA sama dengan menghapus aplikasi biasa. Di Android, tekan lama ikon lalu pilih Hapus. Di iOS, tekan lama ikon hingga bergetar lalu ketuk tombol hapus."
+    }
+  ]
+}

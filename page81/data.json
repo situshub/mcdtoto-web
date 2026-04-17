@@ -1,0 +1,181 @@
+{
+  "title": "MCDTOTO Maintenance 2026 — Jadwal Downtime & Informasi Status Page",
+  "description": "Informasi lengkap jadwal maintenance MCDTOTO 2026. Pantau status server real-time, jadwal downtime terjadwal, dan tips agar tidak terganggu saat pemeliharaan rutin.",
+  "keywords": "MCDTOTO maintenance, MCDTOTO downtime, MCDTOTO status page, MCDTOTO jadwal maintenance, MCDTOTO server status, MCDTOTO pemeliharaan",
+  "h1": "MCDTOTO — Jadwal Maintenance, Downtime & Status Page Real-Time",
+  "subtitle": "Pantau kondisi server MCDTOTO kapan saja. Jadwal pemeliharaan rutin transparan untuk kenyamanan semua member.",
+  "color": "#ef4444",
+  "font": "Cabin",
+  "sections": [
+    {
+      "h2": "Mengapa Maintenance Rutin MCDTOTO Penting untuk Member",
+      "h3": "Pemeliharaan sebagai Investasi Kualitas",
+      "paragraphs": [
+        "Maintenance atau pemeliharaan server merupakan proses penting yang dilakukan secara berkala untuk memastikan platform MCDTOTO beroperasi dengan performa optimal dan keamanan terjamin. Konsep <a href=\"https://id.wikipedia.org/wiki/Pemeliharaan_perangkat_lunak\" target=\"_blank\" rel=\"noopener\">pemeliharaan perangkat lunak menurut Wikipedia</a> mencakup perbaikan bug, peningkatan performa, dan update keamanan yang krusial.",
+        "Tanpa maintenance rutin, sebuah platform digital akan mengalami degradasi performa secara bertahap. Database yang tidak dioptimalkan menjadi lambat, log file yang menumpuk menghabiskan ruang penyimpanan, dan celah keamanan yang tidak ditambal membuka pintu bagi serangan siber. MCDTOTO berkomitmen mencegah semua masalah ini melalui jadwal pemeliharaan yang terstruktur.",
+        "MCDTOTO memahami bahwa setiap menit downtime berdampak pada kenyamanan member. Oleh karena itu, tim teknis berusaha meminimalkan waktu maintenance dan menjadwalkannya pada jam dengan aktivitas pengguna terendah. Rata-rata uptime MCDTOTO sepanjang 2025-2026 adalah 99.95 persen yang menunjukkan komitmen tinggi terhadap ketersediaan layanan.",
+        "Setiap sesi maintenance yang dilakukan selalu dikomunikasikan terlebih dahulu kepada member melalui berbagai kanal notifikasi. Transparansi ini memastikan member tidak terkejut saat mengakses platform dan menemukan layanan sedang tidak tersedia. MCDTOTO juga menyediakan estimasi waktu penyelesaian yang akurat."
+      ],
+      "list": [
+        "Maintenance menjaga performa server tetap optimal",
+        "Update keamanan menutup celah keamanan yang ditemukan",
+        "Rata-rata uptime 99.95% sepanjang 2025-2026",
+        "Jadwal maintenance dikomunikasikan transparan"
+      ],
+      "ordered": [],
+      "table": {
+        "headers": [],
+        "rows": []
+      }
+    },
+    {
+      "h2": "Jadwal Maintenance Rutin MCDTOTO 2026",
+      "paragraphs": [
+        "MCDTOTO memiliki jadwal maintenance rutin yang sudah ditentukan agar member bisa mengantisipasi dan merencanakan aktivitas bermain mereka. Maintenance terjadwal selalu dilaksanakan pada waktu dengan traffic terendah untuk meminimalkan dampak terhadap pengalaman pengguna.",
+        "Maintenance mingguan dilaksanakan setiap hari Selasa dini hari pukul 02.00 hingga 04.00 WIB. Sesi ini digunakan untuk optimasi database, pembersihan cache server, dan penerapan hotfix minor. Durasi rata-rata maintenance mingguan adalah 30 hingga 60 menit, meskipun alokasi waktu resmi adalah dua jam untuk mengantisipasi masalah yang tidak terduga.",
+        "Maintenance bulanan dijadwalkan pada Selasa pertama setiap bulan dengan durasi lebih panjang yaitu pukul 01.00 hingga 05.00 WIB. Sesi bulanan mencakup update major, migrasi database, penggantian sertifikat keamanan, dan pengujian failover sistem. Durasi rata-rata maintenance bulanan adalah 2 hingga 3 jam.",
+        "Maintenance darurat bisa terjadi kapan saja jika ditemukan masalah keamanan kritis atau bug yang berdampak signifikan terhadap layanan. MCDTOTO berusaha membatasi maintenance darurat seminimal mungkin dan selalu memberikan notifikasi segera melalui semua kanal komunikasi yang tersedia."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": {
+        "headers": ["Tipe Maintenance", "Jadwal", "Durasi Rata-rata", "Dampak"],
+        "rows": [
+          ["Mingguan", "Selasa 02:00-04:00 WIB", "30-60 menit", "Platform tidak bisa diakses"],
+          ["Bulanan", "Selasa pertama 01:00-05:00 WIB", "2-3 jam", "Platform tidak bisa diakses"],
+          ["Darurat", "Kapan saja jika kritis", "Bervariasi", "Platform tidak bisa diakses"],
+          ["Rolling Update", "Tidak terjadwal", "0 downtime", "Tidak ada dampak"],
+          ["Hot Patch", "Saat diperlukan", "< 5 menit", "Gangguan minimal"]
+        ]
+      }
+    },
+    {
+      "h2": "Status Page MCDTOTO — Pantau Kondisi Server Real-Time",
+      "h3": "Dashboard Monitoring Publik untuk Semua Member",
+      "paragraphs": [
+        "MCDTOTO menyediakan halaman status publik yang menampilkan kondisi real-time dari semua komponen sistem. Status page ini bisa diakses oleh siapa saja tanpa perlu login, memungkinkan member untuk mengecek apakah layanan berfungsi normal atau sedang mengalami gangguan sebelum mencoba mengakses platform.",
+        "Status page menampilkan kondisi dari beberapa komponen utama meliputi website frontend, API backend, sistem pembayaran deposit dan withdraw, game server untuk berbagai provider, live chat, dan sistem notifikasi. Setiap komponen ditandai dengan indikator warna hijau untuk operasional normal, kuning untuk degradasi performa, dan merah untuk gangguan total.",
+        "Selain status real-time, halaman ini juga menampilkan riwayat insiden selama 90 hari terakhir lengkap dengan timeline penanganan, root cause analysis, dan tindakan perbaikan yang diambil. Transparansi ini membangun kepercayaan member karena mereka bisa melihat bagaimana MCDTOTO menangani setiap masalah teknis.",
+        "Member juga bisa berlangganan notifikasi dari status page untuk mendapatkan pemberitahuan otomatis melalui email atau SMS setiap kali ada perubahan status. Fitur ini sangat berguna bagi member yang ingin mengetahui kapan maintenance selesai tanpa harus terus menerus me-refresh halaman."
+      ],
+      "list": [
+        "Akses publik tanpa login ke status page",
+        "Monitor real-time semua komponen sistem",
+        "Riwayat insiden 90 hari dengan root cause analysis",
+        "Notifikasi otomatis via email atau SMS untuk perubahan status"
+      ],
+      "ordered": [],
+      "table": {
+        "headers": [],
+        "rows": []
+      }
+    },
+    {
+      "h2": "Apa yang Dilakukan MCDTOTO Selama Maintenance",
+      "paragraphs": [
+        "Setiap sesi maintenance MCDTOTO diisi dengan berbagai aktivitas teknis yang diperlukan untuk menjaga kesehatan platform. Memahami apa yang dilakukan selama maintenance membantu member mengapresiasi pentingnya proses ini meskipun menyebabkan downtime sementara.",
+        "Aktivitas pertama adalah optimasi database yang mencakup reindexing tabel, vacuum proses untuk membebaskan ruang penyimpanan yang tidak terpakai, dan analisis query untuk mengidentifikasi bottleneck performa. Database yang dioptimalkan menghasilkan response time yang lebih cepat untuk semua operasi termasuk pencarian game, history transaksi, dan loading profil member.",
+        "Aktivitas kedua adalah penerapan patch keamanan yang menambal kerentanan yang ditemukan pada sistem operasi server, framework aplikasi, dan library pihak ketiga yang digunakan. Tim keamanan MCDTOTO memantau database CVE secara real-time dan memprioritaskan patch berdasarkan tingkat keparahan kerentanan.",
+        "Aktivitas ketiga adalah backup data lengkap yang dilakukan sebelum setiap perubahan besar. Backup ini memastikan bahwa jika terjadi masalah selama maintenance, sistem bisa segera dikembalikan ke kondisi sebelumnya tanpa kehilangan data member. MCDTOTO menyimpan backup di tiga lokasi geografis berbeda untuk redundansi maksimal."
+      ],
+      "list": [
+        "Optimasi database untuk response time lebih cepat",
+        "Penerapan patch keamanan terbaru",
+        "Backup data lengkap ke tiga lokasi geografis",
+        "Pengujian failover dan disaster recovery",
+        "Pembersihan log dan cache server",
+        "Monitoring health check pasca maintenance"
+      ],
+      "ordered": [],
+      "table": {
+        "headers": [],
+        "rows": []
+      }
+    },
+    {
+      "h2": "Tips Member Menghadapi Jadwal Maintenance MCDTOTO",
+      "paragraphs": [
+        "Dengan mengetahui jadwal maintenance MCDTOTO, member bisa mengambil langkah-langkah persiapan agar aktivitas bermain tidak terganggu secara signifikan. Berikut beberapa tips praktis yang bisa diterapkan.",
+        "Pertama, selesaikan semua transaksi aktif sebelum jadwal maintenance dimulai. Jika Anda memiliki saldo yang ingin ditarik, lakukan withdraw minimal 30 menit sebelum maintenance agar proses bisa selesai dengan sempurna. Hindari melakukan deposit atau withdraw dalam 15 menit terakhir sebelum maintenance dimulai.",
+        "Kedua, simpan semua informasi penting dari sesi bermain Anda sebelum maintenance. Screenshot riwayat taruhan, catat saldo akun, dan pastikan tidak ada taruhan yang masih berjalan. Untuk taruhan sportsbook yang masih berlangsung selama maintenance, hasilnya akan diproses setelah maintenance selesai.",
+        "Ketiga, manfaatkan waktu maintenance untuk beristirahat dari aktivitas bermain. Gunakan waktu ini untuk mengevaluasi strategi bermain, memeriksa pengeluaran, dan memastikan aktivitas bermain Anda tetap dalam batas yang sehat dan terkendali."
+      ],
+      "list": [],
+      "ordered": [
+        "Selesaikan semua transaksi 30 menit sebelum maintenance",
+        "Screenshot riwayat taruhan dan catat saldo akun",
+        "Jangan mulai game baru 15 menit sebelum maintenance",
+        "Berlangganan notifikasi status page untuk update real-time",
+        "Gunakan waktu maintenance untuk evaluasi dan istirahat"
+      ],
+      "table": {
+        "headers": [],
+        "rows": []
+      }
+    },
+    {
+      "h2": "Prosedur Penanganan Insiden dan Downtime Tidak Terjadwal",
+      "paragraphs": [
+        "Selain maintenance terjadwal, MCDTOTO memiliki prosedur penanganan insiden yang terstruktur untuk menghadapi downtime tidak terjadwal yang bisa disebabkan oleh berbagai faktor seperti serangan DDoS, kegagalan hardware, atau masalah provider infrastruktur.",
+        "Saat insiden terdeteksi, tim on-call MCDTOTO yang bertugas 24 jam akan segera melakukan triase untuk menentukan tingkat keparahan dan dampak insiden. Insiden dikategorikan dalam empat level: P1 untuk outage total yang berdampak pada semua member, P2 untuk degradasi signifikan, P3 untuk masalah yang berdampak pada sebagian member, dan P4 untuk masalah minor.",
+        "Untuk insiden P1 dan P2, tim akan segera memperbarui status page, mengirimkan notifikasi push ke semua member, dan mengaktifkan war room virtual untuk koordinasi penanganan. Target waktu penyelesaian untuk P1 adalah maksimal 30 menit dan P2 maksimal 2 jam. Jika insiden tidak bisa diselesaikan dalam target waktu, manajemen senior akan dilibatkan.",
+        "Setelah insiden diselesaikan, MCDTOTO selalu melakukan post-incident review dalam 48 jam. Review ini menghasilkan dokumen root cause analysis yang transparan, tindakan perbaikan untuk mencegah insiden serupa, dan timeline kejadian yang akurat. Ringkasan review dipublikasikan di status page untuk informasi member."
+      ],
+      "list": [
+        "Tim on-call 24/7 untuk respons insiden instan",
+        "Kategorisasi insiden P1 hingga P4 berdasarkan dampak",
+        "Target resolusi P1 dalam 30 menit",
+        "Post-incident review dalam 48 jam setelah insiden"
+      ],
+      "ordered": [],
+      "table": {
+        "headers": [],
+        "rows": []
+      }
+    },
+    {
+      "h2": "Statistik Uptime dan Keandalan Platform MCDTOTO",
+      "paragraphs": [
+        "MCDTOTO secara terbuka mempublikasikan statistik uptime dan keandalan platform sebagai bukti komitmen terhadap kualitas layanan. Angka-angka ini diverifikasi oleh layanan monitoring independen untuk memastikan keakuratannya.",
+        "Sepanjang 2025, MCDTOTO mencatatkan uptime rata-rata 99.95 persen yang setara dengan total downtime kurang dari 4.5 jam dalam setahun. Untuk Q1 2026, angka uptime bahkan meningkat menjadi 99.97 persen berkat peningkatan infrastruktur dan prosedur maintenance yang lebih efisien.",
+        "Waktu respons server rata-rata berada di angka 85 milidetik untuk wilayah Indonesia, menunjukkan performa yang sangat baik. CDN yang tersebar di beberapa point of presence di Indonesia memastikan bahwa member di berbagai lokasi mendapatkan kecepatan akses yang konsisten.",
+        "MCDTOTO menargetkan uptime minimal 99.9 persen setiap bulan dan 99.95 persen setiap tahun. Target ini ditinjau dan ditingkatkan secara berkala seiring dengan peningkatan kapasitas infrastruktur dan pematangan prosedur operasional."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": {
+        "headers": ["Metrik", "2025", "Q1 2026", "Target 2026"],
+        "rows": [
+          ["Uptime", "99.95%", "99.97%", "99.96%"],
+          ["Total Downtime", "< 4.5 jam/tahun", "< 0.8 jam/kuartal", "< 3.5 jam/tahun"],
+          ["Response Time", "95 ms", "85 ms", "< 80 ms"],
+          ["Insiden P1", "2 kali", "0 kali", "0 kali"],
+          ["Insiden P2", "5 kali", "1 kali", "< 3 kali"],
+          ["MTTR (P1)", "22 menit", "N/A", "< 20 menit"]
+        ]
+      }
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kapan jadwal maintenance rutin MCDTOTO?",
+      "a": "Maintenance mingguan dilaksanakan setiap Selasa dini hari pukul 02:00-04:00 WIB. Maintenance bulanan pada Selasa pertama setiap bulan pukul 01:00-05:00 WIB."
+    },
+    {
+      "q": "Di mana bisa memantau status server MCDTOTO?",
+      "a": "Status page publik MCDTOTO bisa diakses tanpa login dan menampilkan kondisi real-time semua komponen sistem, riwayat insiden, serta opsi berlangganan notifikasi perubahan status."
+    },
+    {
+      "q": "Apa yang terjadi dengan taruhan saya saat maintenance?",
+      "a": "Taruhan yang masih berjalan saat maintenance dimulai akan diproses setelah maintenance selesai. Data taruhan tersimpan aman di server dan tidak akan hilang selama proses pemeliharaan."
+    },
+    {
+      "q": "Berapa rata-rata uptime MCDTOTO?",
+      "a": "Rata-rata uptime MCDTOTO adalah 99.95% sepanjang 2025, meningkat menjadi 99.97% di Q1 2026. Ini setara dengan total downtime kurang dari 4.5 jam per tahun."
+    },
+    {
+      "q": "Apakah MCDTOTO memberikan notifikasi sebelum maintenance?",
+      "a": "Ya, notifikasi dikirimkan minimal 24 jam sebelum maintenance terjadwal melalui push notification, email, dan pengumuman di dalam platform. Maintenance darurat dinotifikasi segera setelah keputusan diambil."
+    }
+  ]
+}

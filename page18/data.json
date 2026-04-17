@@ -1,0 +1,140 @@
+{
+  "title": "MCDTOTO Deposit QRIS — Scan QR Universal Payment Instan Tanpa Biaya 2026",
+  "description": "Deposit instan di MCDTOTO via QRIS universal payment. Scan QR code dari semua aplikasi perbankan dan e-wallet, proses otomatis tanpa biaya administrasi.",
+  "keywords": "MCDTOTO deposit QRIS, QRIS payment, scan QR deposit, deposit universal payment, QRIS slot online",
+  "h1": "MCDTOTO — Deposit QRIS Scan Universal Payment Instan",
+  "subtitle": "Deposit menggunakan QRIS dari aplikasi perbankan atau e-wallet manapun dengan proses scan-and-pay yang instan",
+  "color": "#14b8a6",
+  "font": "Nunito",
+  "sections": [
+    {
+      "h2": "Kemudahan Deposit QRIS di MCDTOTO",
+      "h3": "Satu QR untuk Semua Metode Pembayaran",
+      "paragraphs": [
+        "MCDTOTO mengadopsi teknologi QRIS (Quick Response Code Indonesian Standard) sebagai metode deposit universal yang mendukung pembayaran dari semua aplikasi perbankan dan e-wallet di Indonesia. Dengan satu kode QR, pemain dapat membayar menggunakan Dana, OVO, GoPay, LinkAja, ShopeePay, maupun mobile banking dari semua bank. Universalitas ini menghilangkan kebutuhan untuk menyediakan banyak metode pembayaran terpisah.",
+        "QRIS dikembangkan oleh Bank Indonesia sebagai standar pembayaran nasional yang menyatukan berbagai sistem pembayaran digital ke dalam satu ekosistem interoperable. Sejak diluncurkan, adopsi QRIS telah meningkat pesat dengan jutaan merchant dan pengguna di seluruh Indonesia. Platform ini memanfaatkan infrastruktur QRIS untuk menawarkan proses deposit yang paling sederhana dan inklusif.",
+        "Proses deposit melalui QRIS berlangsung secara instan—setelah pemain memindai kode QR dan mengkonfirmasi pembayaran di aplikasi mereka, saldo bermain langsung bertambah dalam hitungan detik. Tidak ada biaya administrasi tambahan; nominal yang dibayarkan diterima 100% sebagai saldo bermain. Keunggulan ini menjadikan QRIS sebagai metode deposit dengan value terbaik setelah e-wallet langsung."
+      ],
+      "list": [
+        "Kompatibel dengan semua aplikasi bank dan e-wallet di Indonesia",
+        "Proses instan — saldo masuk dalam hitungan detik",
+        "Tanpa biaya administrasi — saldo diterima 100%",
+        "Standar Bank Indonesia yang aman dan terregulasi",
+        "Tersedia 24/7 tanpa batasan jam operasional"
+      ],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "Cara Deposit via QRIS Step by Step",
+      "h3": "Panduan untuk Semua Aplikasi Pembayaran",
+      "paragraphs": [
+        "Proses deposit QRIS dirancang semudah mungkin dengan hanya beberapa langkah sederhana. Seluruh proses dari inisiasi hingga saldo masuk biasanya selesai dalam waktu kurang dari satu menit, menjadikannya salah satu metode deposit tercepat yang tersedia di platform.",
+        "Kode QR yang ditampilkan bersifat dinamis dan unik untuk setiap transaksi. Ini berarti setiap permintaan deposit menghasilkan QR baru dengan nominal yang sudah ter-embed, mengeliminasi risiko kesalahan input nominal. Kode QR juga memiliki masa berlaku terbatas (biasanya 15 menit) untuk alasan keamanan—jika tidak dipindai dalam waktu tersebut, transaksi otomatis dibatalkan.",
+        "Menurut standar <a href=\"https://id.wikipedia.org/wiki/QRIS\" target=\"_blank\" rel=\"noopener\">QRIS</a> Bank Indonesia, setiap transaksi dilindungi oleh protokol keamanan berlapis termasuk enkripsi data, tokenisasi, dan verifikasi merchant. Keamanan ini setara dengan transaksi perbankan konvensional, memberikan jaminan bahwa dana Anda terlindungi selama proses pembayaran."
+      ],
+      "list": [],
+      "ordered": [
+        "Login ke akun dan buka menu Deposit > QRIS",
+        "Masukkan nominal deposit yang diinginkan (min Rp 10.000)",
+        "Kode QR dinamis akan ditampilkan di layar",
+        "Buka aplikasi pembayaran Anda (bank/e-wallet)",
+        "Pilih fitur Scan QR atau Pay di aplikasi Anda",
+        "Pindai kode QR yang ditampilkan di platform",
+        "Konfirmasi pembayaran dengan PIN/biometric di aplikasi Anda",
+        "Saldo bermain otomatis bertambah setelah pembayaran berhasil"
+      ],
+      "table": null
+    },
+    {
+      "h2": "Kompatibilitas QRIS dengan Berbagai Aplikasi",
+      "paragraphs": [
+        "QRIS dirancang untuk interoperabilitas universal, artinya kode QR yang sama dapat dipindai dan dibayar dari aplikasi manapun yang mendukung standar QRIS. Berikut <a href=\"#perbandingan\">daftar aplikasi</a> yang telah dikonfirmasi kompatibel.",
+        "Jika aplikasi Anda tidak tercantum dalam daftar, kemungkinan besar tetap bisa digunakan selama mendukung fitur scan QR QRIS. Hampir semua aplikasi keuangan di Indonesia yang teregulasi oleh Bank Indonesia telah mengadopsi standar QRIS."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": {
+        "headers": ["Kategori", "Aplikasi", "Status QRIS", "Biaya Scan", "Limit per Transaksi"],
+        "rows": [
+          ["E-Wallet", "Dana, OVO, GoPay, LinkAja, ShopeePay", "Didukung", "Gratis", "Sesuai limit akun"],
+          ["Bank Konvensional", "BCA Mobile, BNI Mobile, BRI Mobile, Mandiri Livin", "Didukung", "Gratis", "Sesuai limit mbanking"],
+          ["Bank Digital", "Jago, Blu, SeaBank, Neobank, Superbank", "Didukung", "Gratis", "Sesuai limit akun"],
+          ["Bank Syariah", "BSI Mobile, CIMB Niaga Syariah", "Didukung", "Gratis", "Sesuai limit mbanking"],
+          ["Fintech", "Flip, DANA Bisnis, Kredivo", "Sebagian", "Bervariasi", "Bervariasi"]
+        ]
+      }
+    },
+    {
+      "h2": "Keunggulan QRIS Dibandingkan Metode Deposit Lain",
+      "paragraphs": [
+        "QRIS menawarkan kombinasi unik dari universalitas, kecepatan, dan efisiensi biaya yang tidak dimiliki oleh metode deposit lain secara bersamaan. Berbeda dengan transfer bank yang terbatas pada satu institusi, QRIS memungkinkan pembayaran dari puluhan bank dan e-wallet melalui satu kode QR tunggal.",
+        "Dibandingkan deposit pulsa yang mengenakan rate konversi 15-20%, QRIS memberikan saldo penuh 100% dari nominal pembayaran. Ini berarti penghematan signifikan terutama untuk deposit dalam nominal besar. Pemain yang sebelumnya menggunakan pulsa sebagai metode utama sangat disarankan untuk beralih ke QRIS jika memiliki akses ke aplikasi perbankan atau e-wallet.",
+        "Kecepatan deposit QRIS juga unggul dibandingkan transfer bank manual yang memerlukan input nomor rekening dan verifikasi. Dengan scan QR, seluruh informasi pembayaran sudah ter-embed dalam kode sehingga tidak ada risiko salah input. Proses dari scan hingga saldo masuk umumnya kurang dari 30 detik, menjadikannya metode tercepat bersama e-wallet langsung.",
+        "Keamanan QRIS juga lebih tinggi karena tidak ada data sensitif yang dipertukarkan selama proses pembayaran. Pemain tidak perlu memasukkan nomor rekening atau detail akun di platform—semua otentikasi dilakukan di dalam aplikasi pembayaran mereka sendiri yang sudah dilindungi oleh PIN dan biometric."
+      ],
+      "list": [
+        "Universal — satu QR untuk semua bank dan e-wallet",
+        "Tanpa potongan — saldo diterima 100%",
+        "Tercepat — selesai dalam <30 detik",
+        "Aman — tidak ada pertukaran data sensitif",
+        "Mudah — tanpa input nomor rekening manual"
+      ],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "Troubleshooting Masalah Deposit QRIS",
+      "paragraphs": [
+        "Masalah paling umum saat deposit QRIS adalah QR code yang tidak terbaca oleh scanner aplikasi. Hal ini biasanya disebabkan oleh kecerahan layar yang terlalu rendah, jarak scan yang terlalu dekat atau terlalu jauh, atau kerusakan pada tampilan QR akibat screenshot yang ter-compress. Pastikan kecerahan layar pada level maksimal dan jarak scan sekitar 15-25 cm untuk hasil optimal.",
+        "Jika transaksi menunjukkan gagal di aplikasi pembayaran namun saldo di aplikasi sudah terpotong, kemungkinan besar terdapat keterlambatan konfirmasi antara payment processor dan platform. Tunggu 5-10 menit dan cek saldo bermain Anda. Dalam 99% kasus, saldo akan muncul setelah delay singkat.",
+        "Beberapa bank memiliki limit harian untuk transaksi QRIS yang mungkin lebih rendah dari limit transfer biasa. Jika transaksi ditolak dengan pesan limit exceeded, pertimbangkan untuk menggunakan aplikasi pembayaran lain atau menghubungi bank Anda untuk informasi mengenai limit QRIS."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "QRIS Cross-Border dan Perkembangan Masa Depan",
+      "paragraphs": [
+        "Bank Indonesia terus memperluas cakupan QRIS melalui perjanjian cross-border dengan negara-negara ASEAN. Ke depan, interoperabilitas ini akan memungkinkan pembayaran QRIS dari aplikasi keuangan di Thailand, Malaysia, Singapura, dan Filipina, memperluas basis pengguna potensial platform secara signifikan.",
+        "Evolusi QRIS juga mencakup dukungan untuk pembayaran subscription dan recurring payment, yang di masa depan bisa dimanfaatkan untuk fitur auto-deposit di platform. Perkembangan teknologi ini dipantau secara aktif oleh tim pengembangan untuk memastikan platform selalu menawarkan metode pembayaran terkini dan paling convenient.",
+        "Platform berkomitmen untuk terus mengikuti perkembangan ekosistem pembayaran digital Indonesia dan mengintegrasikan inovasi terbaru begitu tersedia secara teknis dan regulatori. Tujuannya adalah memastikan pemain selalu memiliki akses ke metode deposit yang paling mudah, cepat, dan aman."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "FAQ — Pertanyaan Seputar Deposit QRIS",
+      "paragraphs": [
+        "Temukan jawaban pertanyaan umum tentang deposit QRIS di <a href=\"#faq\">FAQ</a> ini."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": null
+    }
+  ],
+  "faq": [
+    {
+      "q": "Aplikasi apa saja yang bisa digunakan untuk scan QRIS?",
+      "a": "Semua aplikasi bank dan e-wallet yang terdaftar di Bank Indonesia mendukung QRIS, termasuk Dana, OVO, GoPay, BCA Mobile, BNI Mobile, BRI Mobile, Mandiri Livin, dan puluhan lainnya."
+    },
+    {
+      "q": "Apakah ada biaya tambahan untuk deposit QRIS?",
+      "a": "Tidak ada biaya administrasi dari platform. Beberapa bank mungkin mengenakan biaya minimal untuk transaksi QRIS, namun mayoritas bank dan e-wallet menawarkan layanan ini secara gratis."
+    },
+    {
+      "q": "Berapa deposit minimum via QRIS?",
+      "a": "Deposit minimum melalui QRIS adalah Rp 10.000. Nominal sudah ter-embed dalam kode QR sehingga tidak perlu input manual."
+    },
+    {
+      "q": "Bagaimana jika QR code tidak terbaca?",
+      "a": "Pastikan kecerahan layar maksimal dan jarak scan 15-25 cm. Jika masih gagal, coba refresh halaman untuk mendapatkan QR code baru atau gunakan metode deposit alternatif."
+    },
+    {
+      "q": "Apakah deposit QRIS tersedia 24 jam?",
+      "a": "Ya, deposit QRIS tersedia 24/7. Namun ketersediaan di sisi aplikasi pembayaran Anda bergantung pada jam operasional masing-masing provider."
+    }
+  ]
+}

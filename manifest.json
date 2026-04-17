@@ -1,0 +1,11 @@
+{
+  "name": "MCDTOTO",
+  "short_name": "MCDTOTO",
+  "start_url": "/mcdtoto-web/",
+  "display": "standalone",
+  "background_color": "#0c0d14",
+  "theme_color": "#6366f1",
+  "icons": [
+    {"src": "https://i.imgur.com/qdEdlLy.png", "sizes": "192x192", "type": "image/png"}
+  ]
+}

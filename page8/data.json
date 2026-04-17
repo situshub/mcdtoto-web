@@ -1,0 +1,138 @@
+{
+  "title": "MCDTOTO Deposit Dana — E-Wallet Dana Deposit Instan Tanpa Potongan 2026",
+  "description": "Deposit instan di MCDTOTO menggunakan e-wallet Dana tanpa potongan biaya. Proses otomatis kurang dari 30 detik, minimal Rp 10.000, tersedia 24 jam.",
+  "keywords": "MCDTOTO deposit Dana, deposit e-wallet Dana, top up Dana slot, deposit instan Dana, cara deposit Dana",
+  "h1": "MCDTOTO — Deposit E-Wallet Dana Instan Tanpa Potongan",
+  "subtitle": "Isi saldo bermain dalam hitungan detik menggunakan aplikasi Dana dengan proses otomatis penuh dan tanpa biaya tambahan",
+  "color": "#0ea5e9",
+  "font": "Sora",
+  "sections": [
+    {
+      "h2": "Kemudahan Deposit via Dana di MCDTOTO",
+      "h3": "Proses Otomatis Tanpa Verifikasi Manual",
+      "paragraphs": [
+        "MCDTOTO mengintegrasikan layanan pembayaran Dana sebagai salah satu metode deposit utama yang menawarkan kecepatan dan kemudahan terbaik. Dengan basis pengguna Dana yang mencapai puluhan juta orang di Indonesia, metode ini menjadi pilihan favorit member yang menginginkan proses deposit tanpa hambatan. Seluruh transaksi diproses secara otomatis melalui API resmi Dana, mengeliminasi kebutuhan verifikasi manual oleh operator.",
+        "Kecepatan proses deposit melalui Dana tidak tertandingi oleh metode pembayaran lain yang tersedia di platform. Rata-rata waktu dari inisiasi hingga saldo bermain bertambah hanya 15-30 detik, menjadikannya pilihan ideal ketika pemain ingin segera bermain tanpa menunggu. Sistem payment gateway yang terintegrasi langsung dengan infrastruktur Dana memastikan koneksi yang stabil dan handal.",
+        "Yang lebih menguntungkan lagi, deposit melalui Dana tidak dikenakan biaya administrasi atau potongan apapun. Nominal yang Anda transfer dari aplikasi Dana akan diterima secara utuh sebagai saldo bermain. Ini merupakan keunggulan signifikan dibandingkan metode deposit pulsa yang menerapkan rate konversi, sehingga pemain mendapatkan nilai penuh dari setiap rupiah yang didepositkan."
+      ],
+      "list": [
+        "Proses deposit otomatis dalam 15-30 detik",
+        "Tanpa potongan biaya administrasi — saldo diterima 100%",
+        "Minimal deposit hanya Rp 10.000",
+        "Tersedia 24 jam setiap hari tanpa maintenance terjadwal",
+        "Riwayat transaksi tercatat di kedua platform (Dana dan situs)"
+      ],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "Panduan Step-by-Step Deposit via Dana",
+      "h3": "Instruksi Detail dengan Screenshot",
+      "paragraphs": [
+        "Proses deposit melalui Dana dirancang untuk menjadi semudah mungkin bahkan bagi pengguna yang baru pertama kali melakukannya. Seluruh langkah dapat diselesaikan tanpa perlu meninggalkan browser atau aplikasi utama, berkat integrasi seamless antara platform dan sistem pembayaran Dana.",
+        "Pastikan saldo Dana Anda mencukupi sebelum memulai proses deposit. Jika saldo Dana kurang, Anda dapat melakukan top-up Dana terlebih dahulu melalui berbagai metode yang tersedia di aplikasi Dana seperti transfer bank, minimarket, atau debit card. Setelah saldo Dana terisi, ikuti langkah-langkah berikut untuk melakukan deposit.",
+        "Jika terjadi kendala teknis seperti halaman pembayaran yang tidak memuat atau transaksi yang gagal, pastikan aplikasi Dana Anda sudah diperbarui ke versi terbaru. Menurut data <a href=\"https://id.wikipedia.org/wiki/Dompet_digital\" target=\"_blank\" rel=\"noopener\">dompet digital</a> di Indonesia, pembaruan aplikasi secara berkala penting untuk menjaga kompatibilitas dengan payment gateway partner."
+      ],
+      "list": [],
+      "ordered": [
+        "Login ke akun dan navigasikan ke menu Deposit",
+        "Pilih metode pembayaran Dana dari daftar yang tersedia",
+        "Masukkan nominal deposit (minimum Rp 10.000)",
+        "Klik tombol Proses — Anda akan diarahkan ke halaman pembayaran Dana",
+        "Login ke akun Dana Anda jika diminta",
+        "Konfirmasi pembayaran dengan PIN Dana Anda",
+        "Saldo bermain otomatis bertambah setelah konfirmasi berhasil"
+      ],
+      "table": null
+    },
+    {
+      "h2": "Tabel Perbandingan Metode E-Wallet",
+      "paragraphs": [
+        "Dana bukan satu-satunya opsi e-wallet yang tersedia, namun memiliki beberapa keunggulan dibandingkan e-wallet lain. Berikut <a href=\"#perbandingan\">perbandingan</a> lengkap semua metode e-wallet yang didukung platform untuk membantu Anda memilih yang paling sesuai.",
+        "Meskipun Dana unggul dalam kecepatan dan integrasi, setiap e-wallet memiliki kelebihan tersendiri yang mungkin relevan dengan situasi spesifik pemain. Misalnya, GoPay terintegrasi langsung dengan ekosistem Gojek, sementara OVO menawarkan program cashback yang agresif."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": {
+        "headers": ["E-Wallet", "Kecepatan", "Biaya", "Min Deposit", "Maks Deposit", "Withdraw Support"],
+        "rows": [
+          ["Dana", "15-30 detik", "Gratis", "Rp 10.000", "Rp 25.000.000", "Ya (1-5 menit)"],
+          ["OVO", "30-60 detik", "Gratis", "Rp 10.000", "Rp 20.000.000", "Ya (1-5 menit)"],
+          ["GoPay", "30-60 detik", "Gratis", "Rp 10.000", "Rp 20.000.000", "Ya (1-5 menit)"],
+          ["LinkAja", "1-2 menit", "Gratis", "Rp 10.000", "Rp 15.000.000", "Ya (3-10 menit)"],
+          ["ShopeePay", "1-2 menit", "Gratis", "Rp 10.000", "Rp 10.000.000", "Tidak tersedia"]
+        ]
+      }
+    },
+    {
+      "h2": "Keamanan Transaksi Dana di Platform",
+      "paragraphs": [
+        "Keamanan transaksi e-wallet dijamin melalui beberapa lapisan proteksi yang bekerja secara bersamaan. Koneksi antara platform dan Dana menggunakan enkripsi TLS 1.3 dengan certificate pinning, memastikan data transaksi tidak dapat diintersep oleh pihak ketiga. Setiap permintaan pembayaran divalidasi menggunakan token sesi yang bersifat sementara dan single-use.",
+        "Di sisi Dana, otentikasi dua faktor melalui PIN enam digit memastikan bahwa hanya pemilik akun yang dapat mengotorisasi pembayaran. Fitur biometric authentication (sidik jari atau face ID) juga dapat diaktifkan di aplikasi Dana sebagai lapisan keamanan tambahan, memberikan perlindungan ekstra terhadap akses tidak sah.",
+        "Platform tidak menyimpan kredensial akun Dana pemain dalam sistem. Setiap transaksi deposit memerlukan otentikasi langsung ke server Dana melalui mekanisme OAuth 2.0, sehingga platform hanya menerima konfirmasi pembayaran tanpa pernah memiliki akses ke informasi login Dana pemain."
+      ],
+      "list": [
+        "Enkripsi TLS 1.3 dengan certificate pinning",
+        "Token pembayaran single-use untuk setiap transaksi",
+        "Otentikasi dua faktor via PIN Dana",
+        "Opsional biometric authentication di aplikasi Dana",
+        "Platform tidak menyimpan kredensial Dana pemain"
+      ],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "Withdraw ke Dana — Penarikan Dana Cepat",
+      "paragraphs": [
+        "Selain deposit, platform juga mendukung penarikan dana langsung ke akun Dana pemain. Proses withdraw ke Dana tergolong paling cepat di antara semua metode penarikan yang tersedia, dengan rata-rata waktu proses hanya 1-5 menit. Kecepatan ini dimungkinkan oleh integrasi API disbursement yang memproses transfer secara otomatis.",
+        "Untuk melakukan penarikan ke Dana, pastikan nomor Dana yang terdaftar di platform sesuai dengan akun Dana aktif Anda. Permintaan penarikan yang memasukkan nomor Dana milik orang lain akan ditolak oleh sistem sebagai langkah pencegahan penipuan. Verifikasi kepemilikan nomor Dana hanya perlu dilakukan sekali saat pertama kali mengajukan penarikan.",
+        "Minimal penarikan ke Dana adalah Rp 50.000 dengan maksimal Rp 25.000.000 per transaksi. Tidak ada batasan jumlah penarikan per hari selama total nominal tidak melebihi limit harian akun. Biaya administrasi penarikan ke Dana adalah nol—Anda menerima jumlah penuh yang diminta tanpa potongan apapun."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "Troubleshooting Masalah Deposit Dana",
+      "paragraphs": [
+        "Beberapa kendala teknis mungkin terjadi saat melakukan deposit melalui Dana. Berikut adalah masalah yang paling sering dilaporkan beserta solusinya agar Anda dapat mengatasinya secara mandiri.",
+        "Jika halaman pembayaran Dana tidak terbuka, pastikan pop-up blocker di browser Anda dinonaktifkan karena halaman pembayaran Dana dibuka di jendela atau tab baru. Alternatif lain adalah menggunakan browser berbeda atau mode incognito. Pada perangkat mobile, pastikan aplikasi Dana terinstal dan diperbarui ke versi terbaru.",
+        "Jika pembayaran berhasil di Dana tetapi saldo bermain tidak bertambah, tunggu hingga 5 menit karena terkadang ada keterlambatan notifikasi dari server Dana. Jika setelah 10 menit saldo masih belum masuk, hubungi customer service dengan menyertakan bukti pembayaran (screenshot riwayat transaksi Dana). Tim support akan memverifikasi dan mengkreditkan saldo secara manual."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "FAQ — Pertanyaan Seputar Deposit Dana",
+      "paragraphs": [
+        "Jawaban untuk pertanyaan umum tentang deposit dan withdraw via Dana tersedia di bagian <a href=\"#faq\">FAQ</a> berikut."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": null
+    }
+  ],
+  "faq": [
+    {
+      "q": "Apakah deposit Dana tersedia 24 jam?",
+      "a": "Ya, deposit via Dana tersedia 24 jam setiap hari termasuk hari libur. Proses sepenuhnya otomatis sehingga tidak bergantung pada jam operasional manual."
+    },
+    {
+      "q": "Berapa deposit minimum melalui Dana?",
+      "a": "Deposit minimum melalui Dana adalah Rp 10.000. Tidak ada biaya administrasi tambahan, sehingga saldo diterima 100% dari nominal yang ditransfer."
+    },
+    {
+      "q": "Apakah bisa deposit menggunakan Dana milik orang lain?",
+      "a": "Untuk keamanan, deposit hanya dapat dilakukan menggunakan akun Dana yang nomor teleponnya terdaftar di akun pemain. Penggunaan akun Dana milik pihak lain akan memerlukan verifikasi tambahan."
+    },
+    {
+      "q": "Bagaimana jika saldo Dana tidak cukup untuk deposit?",
+      "a": "Anda perlu melakukan top-up saldo Dana terlebih dahulu melalui transfer bank, minimarket, atau metode lain yang tersedia di aplikasi Dana sebelum melakukan deposit ke platform."
+    },
+    {
+      "q": "Apakah deposit Dana mendapatkan bonus?",
+      "a": "Ya, deposit melalui Dana eligible untuk semua program bonus yang berlaku termasuk welcome bonus, bonus deposit harian, dan promosi khusus lainnya tanpa pembatasan metode pembayaran."
+    }
+  ]
+}
